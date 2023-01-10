@@ -2,7 +2,7 @@
 
 :hear_no_evil: :speak_no_evil: :see_no_evil: <br>
 2020.4 - 2024.3 (expected)<br>
-PhD candidate, Human Health Sciences, Graduate School of Medicene, Kyoto University<br>
+PhD candidate, Human Health Sciences, Graduate School of Medicine, Kyoto University<br>
 Working on large-scale social media analysis for public attitude and behavior changes due to COVID-19, applying machine learning and natural language processing techniques. <br>
 
   - [Google Scholar](https://scholar.google.com/citations?user=9zWQKgYAAAAJ&hl=en&authuser=1)
