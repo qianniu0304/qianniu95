@@ -19,7 +19,7 @@ Working on large-scale social media analysis for public attitude and behavior ch
 - **Programming**: python, R, SQL
 - **Framework & Tools**: PyTorch, TensorFlow, scikit-learn, Tableau
 - **Theory**: Machine Learning, Deep Learning, Statistics
-- **Languages**: Chinese (native), English (Full professional proficiency), Japanese (Professional working proficiency)
+- **Languages**: Chinese (Native), English (Full professional proficiency), Japanese (Professional working proficiency)
 - **Certifications**: [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/GAFSRZ3PZAXZ), [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/J86Z4M2KDZQT), [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/NKS6HPJ2PMH5)
 
 
