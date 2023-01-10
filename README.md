@@ -1,9 +1,9 @@
 # Qian Niu
 
-:hear_no_evil: :speak_no_evil: :see_no_evil: 
-2020.4 - 2024.3 (expected)
-PhD candidate, Human Health Sciences, Graduate School of Medicene, Kyoto University
-Working on large-scale social media analysis for public attitude and behavior changes due to COVID-19, applying machine learning and natural language processing techniques. 
+:hear_no_evil: :speak_no_evil: :see_no_evil: <br>
+2020.4 - 2024.3 (expected)<br>
+PhD candidate, Human Health Sciences, Graduate School of Medicene, Kyoto University<br>
+Working on large-scale social media analysis for public attitude and behavior changes due to COVID-19, applying machine learning and natural language processing techniques. <br>
 
   - [Google Scholar](https://scholar.google.com/citations?user=9zWQKgYAAAAJ&hl=en&authuser=1)
   - [LinkedIn](https://www.linkedin.com/in/qian-niu-9b45661a1/)
