@@ -14,7 +14,7 @@ Working on large-scale social media analysis for public attitude and behavior ch
 ## RESEARCH INTEREST
 - **Medical Natural Language Processing, Health Informatics, Infodemiology**
 
-## FELLOWSHIP
+## AWARDS
 - **Google PhD Fellowship (2022), Japan Science and Technology Agency (JST) SPRING Fellowship**
 
 ## SKILLS
