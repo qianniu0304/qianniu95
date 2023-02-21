@@ -17,7 +17,7 @@ Working on large-scale social media analysis for public attitude and behavior ch
 
 ## AWARDS
 
-- **Google PhD Fellowship (2022), Kyoto University President's Awards (2023), Japan Science and Technology Agency (JST) SPRING Fellowship**
+- **Google PhD Fellowship (2022), Kyoto University President's Awards (2023), Japan Science and Technology Agency (JST) SPRING Fellowship (2021-2023)**
 
 ## SKILLS
 
