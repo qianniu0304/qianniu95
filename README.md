@@ -3,6 +3,7 @@
 🙉 🙊 🙈
 
 2020.4 - 2024.3 (expected)
+
 PhD candidate, Human Health Sciences, Graduate School of Medicine, Kyoto University
 
 - [Google Scholar](https://scholar.google.com/citations?user=9zWQKgYAAAAJ&hl=en&authuser=1)
