@@ -1,9 +1,9 @@
 # Qian Niu
 
-🙉 🙊 🙈 `<br>`
-2020.4 - 2024.3 (expected)`<br>`
-PhD candidate, Human Health Sciences, Graduate School of Medicine, Kyoto University`<br>`
-Working on large-scale social media analysis for public attitude and behavior changes due to COVID-19, applying machine learning and natural language processing techniques. `<br>`
+🙉 🙊 🙈
+
+2020.4 - 2024.3 (expected)
+PhD candidate, Human Health Sciences, Graduate School of Medicine, Kyoto University
 
 - [Google Scholar](https://scholar.google.com/citations?user=9zWQKgYAAAAJ&hl=en&authuser=1)
 - [LinkedIn](https://www.linkedin.com/in/qian-niu-9b45661a1/)
@@ -17,7 +17,9 @@ Working on large-scale social media analysis for public attitude and behavior ch
 
 ## AWARDS
 
-- **Google PhD Fellowship (2022), Kyoto University President's Awards (2023), Japan Science and Technology Agency (JST) SPRING Fellowship (2021-2023)**
+- **Kyoto University President's Awards (2023)**
+- **Google PhD Fellowship (2022)**
+- **Japan Science and Technology Agency (JST) SPRING Fellowship (2021-2023)**
 
 ## SKILLS
 
