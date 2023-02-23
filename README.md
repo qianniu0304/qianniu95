@@ -18,7 +18,7 @@ PhD candidate, Human Health Sciences, Graduate School of Medicine, Kyoto Univers
 
 ## AWARDS
 
-- **Kyoto University President's Awards (2023)**
+- **Kyoto University President's Award (2023)**
 - **Google PhD Fellowship (2022)**
 - **Japan Science and Technology Agency (JST) SPRING Fellowship (2021-2023)**
 
