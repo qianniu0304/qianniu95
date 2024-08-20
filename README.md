@@ -6,7 +6,7 @@
 
 PhD, Health Informatics, Graduate School of Medicine, Kyoto University
 
-PhD research focuses on the intersection of Natural Language Processing (NLP) and Health. Using social media and searching data, my works provide real-world evidence to understand public opinions and sentiments toward COVID-19 and HPV vaccination, and online information-seeking behaviors for infectious diseases. Currently exploring the impact of generative AI on the research pipeline and the potential health applications.
+PhD research focuses on the intersection of Natural Language Processing (NLP) and Health. Using social media and searching data, my works provide real-world evidence to understand public opinions and sentiments and online information-seeking behaviors. Currently exploring the impact of generative AI on the research pipeline and the potential health applications.
 
 - [Google Scholar](https://scholar.google.com/citations?user=9zWQKgYAAAAJ&hl=en&authuser=1)
 - [LinkedIn](https://www.linkedin.com/in/qian-niu-9b45661a1/)
