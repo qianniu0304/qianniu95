@@ -2,7 +2,7 @@
 
 🙉 🙊 🙈
 
-2020.4 - 2024.3 (expected)
+2020.4 - 2024.5
 
 PhD candidate, Human Health Sciences, Graduate School of Medicine, Kyoto University
 
@@ -10,11 +10,11 @@ PhD candidate, Human Health Sciences, Graduate School of Medicine, Kyoto Univers
 - [LinkedIn](https://www.linkedin.com/in/qian-niu-9b45661a1/)
 - [GitHub](https://github.com/Qiana95)
 - [niuqian1995@gmail.com](mailto:niuqian1995@gmail.com)
-- [niu.qian.57n@st.kyoto-u.ac.jp](mailto:niu.qian.57n@st.kyoto-u.ac.jp)
+- [niu.qian.f44@kyoto-u.jp](mailto:niu.qian.f44@kyoto-u.jp)
 
 ## RESEARCH INTEREST
 
-- **Medical Natural Language Processing, Health Informatics, Infodemiology**
+- **Medical NLP, Infodemiology, Generative AI**
 
 ## AWARDS
 
@@ -27,5 +27,5 @@ PhD candidate, Human Health Sciences, Graduate School of Medicine, Kyoto Univers
 - **Programming**: python, R, SQL
 - **Framework & Tools**: PyTorch, TensorFlow, scikit-learn, Tableau
 - **Theory**: Machine Learning, Deep Learning, Statistics
-- **Languages**: Chinese (Native), English (Full professional proficiency), Japanese (Professional working proficiency)
-- **Certifications**: [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/GAFSRZ3PZAXZ), [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/J86Z4M2KDZQT), [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/NKS6HPJ2PMH5)
+- **Languages**: Chinese (Native), English (Fluent, TOEIC 860), Japanese (JLPT N1)
+- **Certifications**:[Generative Al with Large Language Models]([https://www.coursera.org/account/accomplishments/specialization/certificate/GAFSRZ3PZAXZ](https://www.coursera.org/account/accomplishments/verify/WQLSXG4ZE3FM)),[Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/GAFSRZ3PZAXZ), [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/J86Z4M2KDZQT), [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/NKS6HPJ2PMH5)
