@@ -4,7 +4,7 @@
 
 2020.4 - 2024.5
 
-PhD candidate, Human Informatics, Graduate School of Medicine, Kyoto University
+PhD candidate, Health Informatics, Graduate School of Medicine, Kyoto University
 
 - [Google Scholar](https://scholar.google.com/citations?user=9zWQKgYAAAAJ&hl=en&authuser=1)
 - [LinkedIn](https://www.linkedin.com/in/qian-niu-9b45661a1/)
