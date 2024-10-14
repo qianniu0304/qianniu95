@@ -2,7 +2,7 @@
 
 🙉 🙊 🙈
 
-2020.4 - 2024.5
+2020 - 2024
 
 PhD, Health Informatics, Graduate School of Medicine, Kyoto University
 
