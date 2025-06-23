@@ -17,21 +17,9 @@ PhD research focuses on the intersection of Natural Language Processing (NLP) an
 - [niuqian1995@gmail.com](mailto:niuqian1995@gmail.com)
 - [qian.niu@weblab.t.u-tokyo.ac.jp](mailto:qian.niu@weblab.t.u-tokyo.ac.jp)
 
-## RESEARCH INTEREST
-
-- **Medical NLP, Infodemiology, Generative AI**
 
 ## AWARDS
 
 - **Kyoto University President's Award (2023)**
 - **Google PhD Fellowship (2022-2024)**
 - **Japan Science and Technology Agency (JST) SPRING Fellowship (2021-2024)**
-
-## SKILLS
-
-- **Programming**: python, R, SQL
-- **Cloud**: AWS, GCP
-- **Framework & Tools**: PyTorch, TensorFlow, scikit-learn, Tableau, SPSS
-- **Theory**: Machine Learning, Deep Learning, Statistics
-- **Languages**: Chinese (Native), English (Fluent, TOEIC 860), Japanese (JLPT N1)
-- **Certifications**:[Generative Al with Large Language Models](https://www.coursera.org/account/accomplishments/verify/WQLSXG4ZE3FM), [Introduction to Generative AI Learning Path](https://www.coursera.org/account/accomplishments/professional-cert/GAFSRZ3PZAXZ), [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/GAFSRZ3PZAXZ), [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/J86Z4M2KDZQT), [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/NKS6HPJ2PMH5)
