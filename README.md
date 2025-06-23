@@ -15,7 +15,7 @@ PhD research focuses on the intersection of Natural Language Processing (NLP) an
 - [GitHub](https://github.com/Qiana95)
 - [Kaggle](https://www.kaggle.com/albertareap)
 - [niuqian1995@gmail.com](mailto:niuqian1995@gmail.com)
-- [niu.qian.f44@kyoto-u.jp](mailto:niu.qian.f44@kyoto-u.jp)
+- [qian.niu@weblab.t.u-tokyo.ac.jp](mailto:qian.niu@weblab.t.u-tokyo.ac.jp)
 
 ## RESEARCH INTEREST
 
