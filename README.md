@@ -1,8 +1,9 @@
 # Qian NIU
 
-🙉 🙊 🙈
+Researcher, Matsuo-Iwasawa Lab, Graduate School of Engineering, The University of Tokyo
+Medical AI, LLM, MLLM, AI Agents
 
-2020 - 2024
+🙉 🙊 🙈
 
 PhD, Health Informatics, Graduate School of Medicine, Kyoto University
 
@@ -22,8 +23,8 @@ PhD research focuses on the intersection of Natural Language Processing (NLP) an
 ## AWARDS
 
 - **Kyoto University President's Award (2023)**
-- **Google PhD Fellowship (2022)**
-- **Japan Science and Technology Agency (JST) SPRING Fellowship (2021)**
+- **Google PhD Fellowship (2022-2024)**
+- **Japan Science and Technology Agency (JST) SPRING Fellowship (2021-2024)**
 
 ## SKILLS
 
