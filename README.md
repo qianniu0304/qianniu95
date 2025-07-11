@@ -20,6 +20,6 @@ PhD research focuses on the intersection of Natural Language Processing (NLP) an
 
 ## AWARDS
 
-- **Kyoto University President's Award (2023)**
 - **Google PhD Fellowship (2022-2024)**
+- **Kyoto University President's Award (2023)**
 - **Japan Science and Technology Agency (JST) SPRING Fellowship (2021-2024)**
