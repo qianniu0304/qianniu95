@@ -2,7 +2,7 @@
 
 Researcher, Matsuo-Iwasawa Lab, Graduate School of Engineering, The University of Tokyo
 
-Medical AI, LLM, MLLM, AI Agents
+Medical AI, LLM, Reasoning, Safety
 
 🙉 🙊 🙈
 
